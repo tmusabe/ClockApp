@@ -1,6 +1,8 @@
 # ClockApp
 ClockApp contains analog view of watch. It is an iOS app which is developed by SwiftUl and also conform MVVM architecture
 
+<image src="Images/ClockApp-Scene1.png" width=100 >
+
 ## Features
 - Set Alarm 
 - Use Stopwatch
