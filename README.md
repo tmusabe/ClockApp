@@ -42,7 +42,7 @@ Selecting any point on clock changing time is done with creating hidden niddle
 ```
 ## Motivation and Credit
 - The design and stopwatch logic is motivated from [StepByStep Learning - iOS Programming](https://www.youtube.com/watch?v=13BhbutmQdA&list=PLFK9eRgQ_3FYZ4JDsHcQWBVndFNbdO1JW) Youtube Channel
-- The time logic is inheritted from [Kavsoft](https://www.youtube.com/watch?v=BTtERko7j1Y)
+- The time logic is inheritted from [Kavsoft](https://www.youtube.com/watch?v=BTtERko7j1Y) Youtube Channel
 
 ## License
 
