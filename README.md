@@ -5,8 +5,11 @@ ClockApp contains analog view of watch. It is an iOS app which is developed by S
 
 ## Features
 - Set Alarm 
-- Use Stopwatch
-- View Current Time
+- Use Stopwatch 
+- View Current Time 
+
+
+<img src="/Images/AlarmView.gif" width="200"  /> - <img src="/Images/StopwatchView.gif" width="200"  /> - <img src="/Images/TimeView.gif" width="200"  />
 
 ## Tech
 - SwiftUI
